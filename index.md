@@ -1,3 +1,0 @@
-Initial page
-
--[x] test
